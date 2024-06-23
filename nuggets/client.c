@@ -10,7 +10,6 @@
  * 
  * exit 1 if, errors
  * 
- * Sookyoung Park
  */
 #include <stdio.h>
 #include <stdlib.h>
